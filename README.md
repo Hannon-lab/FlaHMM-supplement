@@ -5,7 +5,7 @@ This repository contains the scripts that were used to produce the figures and r
 **FlaHMM: unistrand flamenco-like piRNA cluster prediction in Drosophila species using hidden Markov models**
 Maria-Anna Trapotsi, Jasper van Lopik, Benjamin Czech Nicholson, Gregory J Hannon, Susanne Bornelöv
 
-Please refer to the main repository [https://github.com/marianna-trapotsi/flaHMM] for the standalone tool.
+Please refer to the main repository [https://github.com/Hannon-lab/flaHMM] for the standalone tool.
 
 ### Repository overview
 
