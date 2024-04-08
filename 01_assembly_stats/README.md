@@ -6,7 +6,7 @@ ln -s ../data data
 ln -s /path/to/genome/assembly/folder species
 ```
 
-Here, `/path/to/genome/assembly/folder` should point to a directory with the following structure:
+Here, `/path/to/genome/assembly/folder` should point to a directory with FASTA files arrange in the following structure:
 ```
 $ tree species
 species
