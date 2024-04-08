@@ -5,7 +5,7 @@ This repository contains the scripts that were used to produce the figures and r
 **FlaHMM: unistrand flamenco-like piRNA cluster prediction in Drosophila species using hidden Markov models**
 Maria-Anna Trapotsi, Jasper van Lopik, Benjamin Czech Nicholson, Gregory J Hannon, Susanne Bornelöv
 
-Please refer to the main repository [https://github.com/Hannon-lab/flaHMM] for the standalone tool.
+Please refer to the main repository [https://github.com/Hannon-lab/FlaHMM] for the standalone tool.
 
 ### Repository overview
 
@@ -54,6 +54,7 @@ pip install -U kaleido
 FlaHMM requires Gypsy transposon annotations across the target genomes. The easiest option will be to download our pre-computed annotations using the following command
 
 ```
+cd FlaHMM-supplement
 wget https://content.cruk.cam.ac.uk/ghlab/Susanne/FlaHMM/bins.tar.gz
 tar xf bins.tar.gz
 ```
