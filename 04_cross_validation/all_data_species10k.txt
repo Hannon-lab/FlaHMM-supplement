@@ -1,1 +1,0 @@
-../02_precalculate/all_data_species10k.txt
