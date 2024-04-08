@@ -1,6 +1,12 @@
 ## Create "all_data_species_files" and matrices directory
 
-Three Jupyter notebooks that create files used for other scripts.
+Start by setting up directory structure
+```
+ln -s ../matrices matrices
+ln -s ../data data
+```
+
+There are three Jupyter notebooks that create files used for other scripts.
 
 `Create_all_species_file_extended.ipynb` creates `all_data_species_extendedList2.5k.txt`, `all_data_species_extendedList5k.txt`, and `all_data_species_extendedList10k.txt`.
 
